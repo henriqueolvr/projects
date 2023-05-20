@@ -76,6 +76,56 @@ Inglês
 
 
 
+# 📣 Trilha de Estudos GRATUITA do Kaggle Para Data Science e Machine Learning 🚀
+
+Sempre aparece alguém me perguntando sobre uma trilha de cursos que posso recomendar para a pessoa começar a aprender Data Science e Machine Learning.
+
+Eu gosto muito dos cursos do Kaggle, então separei um tempo para ordenar os cursos deles em uma trilha de estudos que fizesse sentido para quem está começando.
+
+A trilha é composta por 15 cursos, que vão desde o básico de Python até técnicas avançadas de Machine Learning.
+
+Não é garantia de emprego ou qualquer coisa do tipo, mas é uma trilha que vai te dar uma boa base (gratuita) para iniciar seus estudos.
+
+1️⃣ Python 1 - https://lnkd.in/d5KEYZFd
+
+2️⃣ Python 2 - https://lnkd.in/d6Yy5vDJ
+
+3️⃣ SQL - https://lnkd.in/duJ5BHpe
+
+4️⃣ Pandas - https://lnkd.in/d4yYAG5F
+
+5️⃣ SQL Avançado - https://lnkd.in/d7jeDKkm
+
+6️⃣ Limpeza de Dados - https://lnkd.in/dFS2t6c8
+
+7️⃣ Visualização de Dados - https://lnkd.in/dH3Ehfga
+
+8️⃣ Intro a Machine Learning - https://lnkd.in/dyrDBmHx
+
+9️⃣ Machine Learning Intermediário - https://lnkd.in/dv3jJDvk
+
+🔟 Feature Engineering - https://lnkd.in/dUN55qFQ
+
+1️⃣1️⃣ Séries Temporais - https://lnkd.in/dSYfGa_k
+
+1️⃣2️⃣ Intepretação de Modelos - https://lnkd.in/ddgaTCwZ
+
+1️⃣3️⃣ Intro a Deep Learning - https://lnkd.in/dEaiKmSh
+
+1️⃣4️⃣ Visão Computacional - https://lnkd.in/d-H665Ft
+
+1️⃣5️⃣ Intro a Reinforcement Learning - https://lnkd.in/d3zFBHp4
+
+Em paralelo, aprenda ou revise a matemática seguindo meu plano: https://lnkd.in/djmaGckf
+
+Se o inglês estiver enferrujado, visite o DuoLingo: https://www.duolingo.com/
+
+Tem alguns vídeos no meu canal em que vou explicando e resolvendo os exercícios de alguns desses cursos: https://lnkd.in/dX958KWt
+
+Boa sorte!
+
+#datascience #deeplearning #pandas #python #kaggle #machinelearning #sql
+
 
 
 
